@@ -10,3 +10,5 @@
 * [LAN9252 Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/00001909A.pdf)
 
 ## 笔记文档
+
+* [./docs/0001_Ethernet_Theory_of_Operation.md](./docs/0001_Ethernet_Theory_of_Operation.md)
