@@ -8,7 +8,11 @@
 * [以太类型](https://zh.wikipedia.org/wiki/%E4%BB%A5%E5%A4%AA%E7%B1%BB%E5%9E%8B)
 * [LAN9252 EtherCAT slave controller with dual integrated Ethernet PHYs](https://www.microchip.com/wwwproducts/en/LAN9252#additional-features)
 * [LAN9252 Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/00001909A.pdf)
+* [OpenEtherCATsociety/SOES](https://github.com/OpenEtherCATsociety/SOES)
 
 ## 笔记文档
 
-* [./docs/0001_Ethernet_Theory_of_Operation.md](./docs/0001_Ethernet_Theory_of_Operation.md)
+* [0003_STM32F407_EtherCAT_Project_Base.md](./docs/0003_STM32F407_EtherCAT_Project_Base.md)
+* [0002_EtherCAT_Base.md](./docs/0002_EtherCAT_Base.md)
+* [0001_Ethernet_Theory_of_Operation.md](./docs/0001_Ethernet_Theory_of_Operation.md)
+
