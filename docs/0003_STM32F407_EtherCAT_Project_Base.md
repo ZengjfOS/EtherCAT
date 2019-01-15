@@ -68,6 +68,7 @@ void GPIO_Config(void)
 
 ### LAN9252
 
+* PDI(Process Data Interface 或者 Physical Device Interface)；
 * HBI(Host Bus Interface)由`PDI_SELECT`寄存器进行进行模式选择，HBI接口主要是在英文数据手册的62页；
 * 目前使用的是变址地址模式，参考英文数据手册82页；
   * 采用16bit模式，所以最低位不用地址，默认为0：  
