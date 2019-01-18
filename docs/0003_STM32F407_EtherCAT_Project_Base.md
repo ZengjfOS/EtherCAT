@@ -79,3 +79,12 @@ void GPIO_Config(void)
 * `PDI_SELECT`由EEPROM进行配置的，相关信息在英文数据手册的296页；
 * [LAN9252_Datasheet_中文版.pdf](./refers/LAN9252_Datasheet_CN.pdf)
 
+## 寻址方式
+
+* 从硬件电路上看可能会觉得是采用间接寻址，不过在STM32的代码中，实际上采用的直接寻址的方式，也就是直接内存访问；
+  ```C
+  FSMC_NORSRAMInitStructure.FSMC_DataAddressMux = FSMC_DataAddressMux_Enable;
+  FSMC_NORSRAMInitStructure.FSMC_MemoryType = FSMC_MemoryType_NOR;
+  ```
+  * 参考文档：[STM32的FSMC总线复用调试笔记](https://blog.csdn.net/lg2lh/article/details/10121199)
+

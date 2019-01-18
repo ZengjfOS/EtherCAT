@@ -15,6 +15,7 @@ EtherCAT通信由主站发送EtherCAT数据帧读写从站设备的内部存储�
 
 ## 笔记文档
 
+* [0011_LAN9252_Register_Read_Write.md](./docs/0011_LAN9252_Register_Read_Write.md)
 * [0010_LED_Project_Base_Hacking.md](./docs/0010_LED_Project_Base_Hacking.md)
 * [0009_CoE_Object_Dictionary.md](./docs/0009_CoE_Object_Dictionary.md)
 * [0008_EEPROM_Layout.md](./docs/0008_EEPROM_Layout.md)
