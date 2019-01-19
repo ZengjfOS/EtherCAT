@@ -12,9 +12,11 @@ EtherCAT通信由主站发送EtherCAT数据帧读写从站设备的内部存储�
 * [LAN9252 Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/00001909A.pdf)
 * [OpenEtherCATsociety/SOES](https://github.com/OpenEtherCATsociety/SOES)
 * 书籍：《工业以太网现场总线EtherCAT驱动程序设计及应用》
+* [Ethercat解析](https://blog.csdn.net/absinjun/article/month/2018/08)
 
 ## 笔记文档
 
+* [0013_EtherCAT_Process_Data_RAM.md](./docs/0013_EtherCAT_Process_Data_RAM.md)
 * [0012_EtherCAT_CSR_and_Process_Data_RAM_Access.md](./docs/0012_EtherCAT_CSR_and_Process_Data_RAM_Access.md)
 * [0011_LAN9252_Register_Read_Write.md](./docs/0011_LAN9252_Register_Read_Write.md)
 * [0010_LED_Project_Base_Hacking.md](./docs/0010_LED_Project_Base_Hacking.md)
